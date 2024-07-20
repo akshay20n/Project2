@@ -1,3 +1,6 @@
+
+---
+
 # Project 2: The Hilarious Programmer Life Quiz
 
 Welcome to **The Hilarious Programmer Life Quiz**, where you can test your knowledge and humor as a programmer! This interactive webpage is built using HTML, JavaScript, and CSS.
